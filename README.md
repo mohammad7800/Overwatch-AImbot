@@ -4,12 +4,7 @@
 
 Overwatch AImbot detecting enemies and firing at their heads
 
-## Disclaimer
-This aimbot is purely experimental and intended for use in the training area only, not in real games  
-It WILL NOT work in actual games as it has only been trained on training bot images  
-It runs at <10fps so actual use is next to impossible anyway  
-It was created as an experiment using the Google Object Detection to detect "3D" objects
-
+## Disclaimerhvg
 ## Prerequisites 
    1. Overwatch 
    2. Xbox360ce
